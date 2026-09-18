@@ -1,0 +1,2 @@
+/* rev-d4b70c-20260918 */
+extract zip, run manager, point at bg3, review load order, sync
